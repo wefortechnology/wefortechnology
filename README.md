@@ -48,7 +48,7 @@ Open to **freelance projects**, **partnerships**, and **interesting ideas**.
 
 ## 📊 GitHub Stats
 
-![KM's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mahavir745&show_icons=true&theme=dark&hide_border=true)
+![KM's GitHub Stats](https://github-readme-stats.vercel.app/api?username=wefortechnology&show_icons=true&theme=dark&hide_border=true)
 
 ---
 
