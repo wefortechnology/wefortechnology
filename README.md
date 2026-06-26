@@ -8,7 +8,7 @@ Welcome to my GitHub profile! I'm the founder of **WeFörTechnology** — a digi
 
 > *We build the digital presence your business deserves.*
 
-At **WeFör**, we offer end-to-end digital services for startups, small businesses, and growing brands:
+At **WeFörTechnology**, we offer end-to-end digital services for startups, small businesses, and growing brands:
 
 - 🌐 **Website Development** — Fast, responsive, and modern websites built to convert
 - 🟦 **WordPress Solutions** — Custom WordPress themes, plugins, and full site management
@@ -21,7 +21,8 @@ At **WeFör**, we offer end-to-end digital services for startups, small business
 
 **Frontend:** HTML, CSS, Bootstrap, Tailwind, JavaScript, React, NextJs  
 **Backend:** Node.js, Express, MongoDB , Mysql
-**CMS:** WordPress, Zoho Creator  
+**CMS:** WordPress,WooCommerce ,Custom Themes
+**Zoho:** Creator,CRM
 **Design:** Figma, Adobe Illustrator  
 **Version Control:** Git, GitHub  
 
