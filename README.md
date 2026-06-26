@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm KM!
+# 👋 Hi there!
 
 Welcome to my GitHub profile! I'm the founder of **WeFörTechnology** — a digital solutions startup helping businesses establish and grow their online presence.
 
